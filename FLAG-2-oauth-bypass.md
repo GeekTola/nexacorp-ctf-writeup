@@ -88,7 +88,7 @@ if (!redirectUri.startsWith("https://app.nexacorp.io/callback")) {
 
 I used:
 - `recon_token` from FLAG 1
-### Createed First Request (Got Authorization Code)
+### Created First Request (Got Authorization Code)
 
 **In Postman:**
 
