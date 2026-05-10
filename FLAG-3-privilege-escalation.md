@@ -1,6 +1,9 @@
 # FLAG 3: Mass Assignment Privilege Escalation
 
 [← Back to README](README.md) | [Previous: FLAG 2](FLAG-2-oauth-bypass.md) | [Next: FLAG 4 →](FLAG-4-ssrf.md)
+
+<img width="812" height="138" alt="image" src="https://github.com/user-attachments/assets/705e5d5a-ac64-4bf9-ad52-ad1dc8af69bc" />
+
 ---
 
 ## 🎯 Challenge Summary
