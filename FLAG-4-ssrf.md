@@ -2,6 +2,8 @@
 
 [← Back to README](README.md) | [Previous: FLAG 3](FLAG-3-privilege-escalation.md) | [Next: FLAG 5 →](FLAG-5-jwt-confusion.md)
 
+<img width="809" height="141" alt="image" src="https://github.com/user-attachments/assets/28dc2bce-4b95-48a8-ae75-6d719f7c8e6d" />
+
 ---
 
 ## 🎯 Challenge Summary
