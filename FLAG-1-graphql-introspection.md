@@ -1,5 +1,7 @@
 # FLAG 1: GraphQL Introspection Leak
 
+<img width="815" height="138" alt="image" src="https://github.com/user-attachments/assets/3546c4ce-36fd-4a48-86e8-2fa74f13d36e" />
+
 ---
 
 ## 🎯 Challenge Summary
