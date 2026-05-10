@@ -1,6 +1,6 @@
 # NexaCorp CTF - Complete Penetration Testing Writeup
 
-> A FUN comprehensive 5-stage API vulnerability exploitation chain demonstrating real-world breach methodology.
+> An exiting comprehensive 5-stage API vulnerability exploitation chain demonstrating real-world breach methodology.🤭.
 
 ## 🎯 Challenge Overview
 
