@@ -2,6 +2,8 @@
 
 [← Back to README](README.md) | [Next: FLAG 3 →](FLAG-3-privilege-escalation.md)
 
+<img width="808" height="138" alt="image" src="https://github.com/user-attachments/assets/144c73fb-ff0f-47c0-b2a3-a4a45fc55e45" />
+
 ---
 
 ## 🎯 Challenge Summary
