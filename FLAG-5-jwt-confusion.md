@@ -2,6 +2,8 @@
 
 [← Back to README](README.md) | [Previous: FLAG 4](FLAG-4-ssrf.md)
 
+<img width="805" height="145" alt="image" src="https://github.com/user-attachments/assets/5399a22a-5271-40fb-beca-07a042a44fe9" />
+
 ---
 
 ## 🎯 Challenge Summary
